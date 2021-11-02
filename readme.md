@@ -17,7 +17,14 @@
 
 ![image](https://user-images.githubusercontent.com/49148640/139944321-b3afde00-3e6f-4dfc-898a-51e8fae92971.png)
 
-#
 
 
 * view more을 클릭하면 네이버로 연결되며 견종에 대하 더 많은 정보를 볼 수 있음
+#
+
+#### ngrok를 이용해 외부 망에서 localhost  접속하기
+![image](https://user-images.githubusercontent.com/49148640/139944760-6de69610-628f-4c07-9b5b-3ee11f12e255.png)
+
+![image](https://user-images.githubusercontent.com/49148640/139945029-386a56fd-f68e-4eec-ac3c-4b652da48672.png)
+
+* 접속 
